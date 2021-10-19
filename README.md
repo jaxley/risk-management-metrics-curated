@@ -99,6 +99,7 @@ And things to challenge assertions like:
 - Pukinskis, A. (2021). Calculating Cost of Delay - Alex Pukinskis - Medium. Medium. Retrieved from https://medium.com/@alexjp/calculating-cost-of-delay-3110c16827e9
 - Marks, Norman. How great is your cyber risk? (2021, September 16). Retrieved from https://normanmarks.wordpress.com/2021/09/16/how-great-is-your-cyber-risk
 - The Problem with Risk Scores and a Risk Matrix | Safesmart. (2020, January 16). Retrieved from https://safesmart.co.uk/problem-risk-scores-and-a-risk-matrix
+- Risk Management Theatre: On Show At An Organization Near You - Continuous Delivery. (2018, December 23). Retrieved from https://continuousdelivery.com/2013/08/risk-management-theatre
 
 #### Relevant Statistics / Math
 
